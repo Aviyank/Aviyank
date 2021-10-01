@@ -11,6 +11,9 @@
 
 - 🎢 Interested in business and entrepreneurship
 
+
+
+
 ## 🚀 Languages and Tools:
 
 <p align="left">
