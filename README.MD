@@ -11,8 +11,9 @@
 
 - 🎢 Interested in business and entrepreneurship
 
+- 📃 Currently learning to bulid Ai chat bots
 
-
+- 🧑 Pronouns He/Him
 
 
 
