@@ -20,8 +20,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a>
     <h4>"My GitHub contribution"</h4> 
-   <a href="https://github4life.herokuapp.com/Aviyank" rel="nofollow"><img         src="https://camo.githubusercontent.com/093a39da9b776f90b5895dcb5e2ad23d2e7fc9d6054ad2cc03c9af0e30debba1/68747470733a2f2f676974687562346c6966652e6865726f6b756170702e636f6d2f502 d726979616e6b612d7072617361642e6769663f7a3d36" alt="GitHub Game of Life" data-canonical-src="https://github4life.herokuapp.com/Aviyank.gif?z=6" style="max-width: 100%;"></a> 
-</p>
+    <a href="https://github4life.herokuapp.com/Aviyank" rel="nofollow"><img src="https://camo.githubusercontent.com/093a39da9b776f90b5895dcb5e2ad23d2e7fc9d6054ad2cc03c9af0e30debba1/68747470733a2f2f676974687562346c6966652e6865726f6b756170702e636f6d2f502d726979616e6b612d7072617361642e6769663f7a3d36" alt="GitHub Game of Life" data-canonical-src="https://github4life.herokuapp.com/Aviyank.gif?z=6" style="max-width: 100%;"></a>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
