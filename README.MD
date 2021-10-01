@@ -60,4 +60,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Aviyank">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Aviyank?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Aviyank?tab=followers"><img src="https://img.shields.io/github/followers/Aviyank?label=Followers&style=social" alt="GitHub Badge"></a>
