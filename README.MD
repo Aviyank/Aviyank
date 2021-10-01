@@ -18,7 +18,8 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a>
+          <imgsrc="https://camo.githubusercontent.com/093a39da9b776f90b5895dcb5e2ad23d2e7fc9d6054ad2cc03c9af0e30debba1/68747470733a2f2f676974687562346c6966652e6865726f6b756170702e636f6d2 f502d726979616e6b612d7072617361642e6769663f7a3d36" alt="GitHub Game of Life" data-canonical-src="https://github4life.herokuapp.com/Aviyank.gif?z=6" style="max-width: 100%;">
     
 </p>
 
