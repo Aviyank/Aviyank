@@ -3,7 +3,7 @@
 
 
 ## 🙋‍♂️ About Me
-<img align="center" alt="GIF" src="https://media1.giphy.com/media/10cvJCkgoH4AEM/giphy.webp?cid=ecf05e47ktwon5cnszgbxoa17fisop4kiakwxghqmx79f05q&rid=giphy.webp&ct=g" style="max-width: 100%;">
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/10cvJCkgoH4AEM/giphy.webp?cid=ecf05e47ktwon5cnszgbxoa17fisop4kiakwxghqmx79f05q&rid=giphy.webp&ct=g" style="max-width: 100%;">
 
 - 🔭 I’m currently working on **[Blog website]**
 
