@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/0b1df063b06d826befd2eb8618249dc87a42e6ca4b81430d9dfe547a7b94b452/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f72694e56787a626939545743465a46362f67697068792e676966" data-canonical-src="https://media.giphy.com/media/3oriNVxzbi9TWCFZF6/giphy.gif" style="max-width: 100%;">
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/0b1df063b06d826befd2eb8618249dc87a42e6ca4b81430d9dfe547a7b94b452/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f72694e56787a626939545743465a46362f67697068792e676966" data-canonical-src="https://media1.giphy.com/media/10cvJCkgoH4AEM/giphy.webp?cid=ecf05e47ktwon5cnszgbxoa17fisop4kiakwxghqmx79f05q&rid=giphy.webp&ct=g" style="max-width: 100%;">
 
 - 🔭 I’m currently working on **[Blog website]**
 
