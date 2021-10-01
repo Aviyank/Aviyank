@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://miro.medium.com/max/800/1*mr7WXw8tgpMhqugKP2WhrA.gif" height="150px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://miro.medium.com/max/800/1*mr7WXw8tgpMhqugKP2WhrA.gif" height="50px"/></a>
 
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey !</h1>
 <h3 align="center">I'm a Aviyank Aryan </h3>
