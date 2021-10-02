@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[Blog website]**
 
-- 📫 Connect me **aviyank123@gmail.com**
+- 📫 Connect with me **aviyank123@gmail.com**
 
 - 🎢 Interested in business and entrepreneurship
 
